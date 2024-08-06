@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Ivan Terziev
 
+### 🎓 - Student at SoftUni, specializing in JavaScript, Python, and QA.
+
 ### 👀 I’m interested in:
 - 🌐 Front-End
 - 🖥️ Back-End
